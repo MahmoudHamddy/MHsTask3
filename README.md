@@ -21,6 +21,7 @@
   ```
 
   <hr><br>
+  
 
   ### 2. Const pointers.
   there are two ways of declaring a const pointer:
@@ -237,7 +238,7 @@ The value of a is 5
 The value of the pointer ptr is 0xbfca4345
 ```
 
-<br><hr>
+<hr>
 
 ### 3.  Logical AND operator
 such using it in different condition in c++ 
@@ -247,4 +248,4 @@ e.g:
 if(a> 1 && a< 2)
 ```
 
-<br><hr>
+<hr>
